@@ -1,0 +1,9 @@
+.data_table td{
+  border:1px solid black;
+}
+.button{
+  cursor: pointer;
+}
+.button:hover{
+  color: blue;
+}
